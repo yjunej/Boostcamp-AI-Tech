@@ -28,16 +28,16 @@
   * Python
 
 * 코드 편집기
- * 메모장
- * VI editor
- * Sublime Text, Atom, VS code
- * PyCharm
+  * 메모장
+  * VI editor
+  * Sublime Text, Atom, VS code
+  * PyCharm
  
  * 데이터 분석 / 딥러닝
-  * jupyter
-    * 웹 기반 인터랙티브 코드 편집기의 표준
-  * colab
-   * 구글에서 제공하는 클라우드 기반 인터랙티브 코드 편집기
+   * jupyter
+     * 웹 기반 인터랙티브 코드 편집기의 표준
+   * colab
+     * 구글에서 제공하는 클라우드 기반 인터랙티브 코드 편집기
  
  ## 피어섹션
  
