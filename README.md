@@ -1,1 +1,2 @@
-Boostcamp AI Tech Report Repo
+2021 Boostcamp AI Tech 
+*** Week1
