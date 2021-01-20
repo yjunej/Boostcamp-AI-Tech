@@ -46,7 +46,19 @@
     return a+b+sum(args)
   print(asterisk_test(1, 2, 3, 4, 5))
   ```
+  * 키워드 가변인자
+  ```
+  def kwargs_test_2(**kwargs):
+    print(kwargs)
+  print("First value is {first}".format(**kwargs))
+  print("Second value is {second}".format(**kwargs))
+  print("Third value is {third}".format(**kwargs))
   
+  def kwargs_test_3(one,two,*args,**kwargs):
+    print(one+two+sum(args))
+  print(kwargs)
+  kwargs_test_3(3,4,5,6,7,8,9, first=3, second=4, third=5)
+  ```
 
 
 
@@ -59,11 +71,10 @@
  * 회의시간
    * 14:00 ~ 15:30
  * 회의내용
-   * 전체적인 계획을 수정
-   * 초반부에는 각자 학습일지를 공유하고 보면서 서로 학습하기
-   * ice breaking을 위한 개인적인 질문 시간 가지기
-   * 좋은 자료 있으면 서로 공유하기
-   * 새로운 논문 리뷰나 모델학습 보다 주어진 edwith 학습에 초점 맞추어 성장하기
+   * 구글 docs에 회의록 작성하기
+   * ice-breaking time 
+   * 앞으로 회의 계획 확정 및
+   * day2 수업에 관한 정보 공유
  
 
 
