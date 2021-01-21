@@ -27,10 +27,10 @@
       " 입니다.")
   ```
   
-  * Polymorphism
+* Polymorphism
     * 같은 부모를 상속받아도 자식 클래스에서 수정을 통해 이름이 같으나 다른 기능을 하는 함수 생성 가능
     
-  * Visibility (Encapsulation)
+* Visibility (Encapsulation)
     * Class를 설계할 때, 클래스 간 간섭/정보공유의 최소화
     * 캡슐을 던지듯, 인터페이스만 알아서 써야함
     ```
