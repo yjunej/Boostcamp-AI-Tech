@@ -1,3 +1,4 @@
+# Day 1
 ## Competition Flatforms
 - AI Stages
 - Kaggle
