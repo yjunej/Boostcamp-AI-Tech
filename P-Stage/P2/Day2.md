@@ -4,7 +4,7 @@
 - 주어 동사 목적어 태그기 있는 경우 문장 선택
 - 정규표현식을 자유자재로 사용하여아함
 
-`
+```
 def remove_press(texts):
     """
     언론 정보를 제거합니다.
@@ -27,6 +27,6 @@ def remove_press(texts):
         if text:
             preprocessed_text.append(text)    
     return preprocessed_text
-   `
+   ```
    
    -  위와 같이 상황에 맞는 정규표현식 만들어 사용하기
