@@ -1,3 +1,1 @@
-# 2021 Boostcamp AI Tech 
-## U Stage
-### Week 1
+# 2021 Naver Connect Boostcamp AI Tech 1기
